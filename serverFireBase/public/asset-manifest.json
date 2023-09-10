@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b11cdb98.css",
+    "main.js": "/static/js/main.e517c7d0.js",
+    "static/media/whatsappLogo.png": "/static/media/whatsappLogo.c81329ba3a7ad200c08f.png",
+    "index.html": "/index.html",
+    "main.b11cdb98.css.map": "/static/css/main.b11cdb98.css.map",
+    "main.e517c7d0.js.map": "/static/js/main.e517c7d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11cdb98.css",
+    "static/js/main.e517c7d0.js"
+  ]
+}
